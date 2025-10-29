@@ -1,8 +1,8 @@
-package plays.skid.addon.modules;
+package plays.skidded.addon.modules;
 
 import it.unimi.dsi.fastutil.Pair;
 import it.unimi.dsi.fastutil.objects.ObjectIntImmutablePair;
-import plays.skid.addon.gui.EnchantmentSelectScreen;
+import plays.skidded.addon.gui.EnchantmentSelectScreen;
 import meteordevelopment.meteorclient.MeteorClient;
 import meteordevelopment.meteorclient.events.entity.player.InteractEntityEvent;
 import meteordevelopment.meteorclient.events.entity.player.StartBreakingBlockEvent;

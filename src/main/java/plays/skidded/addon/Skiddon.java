@@ -1,6 +1,6 @@
 package plays.skidded.addon;
 
-import com.example.addon.modules.*;
+import plays.skidded.addon.modules.*;
 import com.mojang.logging.LogUtils;
 import meteordevelopment.meteorclient.addons.GithubRepo;
 import meteordevelopment.meteorclient.addons.MeteorAddon;
